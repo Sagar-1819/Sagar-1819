@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Guru Sagar Kumar
+- I have completed my graduation in Electroins and communication Engineering.
 - 👀 I’m interested in Developing codes and implementing it.
 - 🌱 I’m currently learning Python/Django,MySQL and have knowledge on creating Websites using HTML/CSS and JavaScript...
 - 💞️ I’m looking to work in a company where I can Implement my coding skills and gain experience.
