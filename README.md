@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guru Sagar Kumar
 - 👀 I’m interested in Developing codes and implementing it.
-- 🌱 I’m currently learning Python/Django and have knowledge on creating Websites using HTML/CSS and JavaScript...
+- 🌱 I’m currently learning Python/Django,MySQL and have knowledge on creating Websites using HTML/CSS and JavaScript...
 - 💞️ I’m looking to work in a company where I can Implement my coding skills and gain experience.
 - 📫 How to reach me
 - Phone: 9908767466
